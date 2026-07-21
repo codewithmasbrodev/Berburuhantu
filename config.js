@@ -10,6 +10,6 @@
    Jika dibiarkan PLACEHOLDER, game tetap jalan MODE OFFLINE.
    ============================================================ */
 const SUPABASE_CONFIG = {
-  url: "https://PLACEHOLDER.supabase.co",
-  anonKey: "PLACEHOLDER_ANON_KEY"
+  url: "https://tvhdfwrgrkehgnuebxyy.supabase.co",
+  anonKey: "sb_publishable_Mn1W8gMtGqqn0OsUSOL4vQ_BMWrhVzw"
 };
