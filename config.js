@@ -11,5 +11,5 @@
    ============================================================ */
 const SUPABASE_CONFIG = {
   url: "https://tvhdfwrgrkehgnuebxyy.supabase.co",
-  anonKey: "sb_publishable_Mn1W8gMtGqqn0OsUSOL4vQ_BMWrhVzw"
+  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR2aGRmd3JncmtlaGdudWVieHl5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ1NjUzMDYsImV4cCI6MjEwMDE0MTMwNn0.O1CNVM2qMxDHmNVJVeaCVMpbwkNRiYdg7UGvPYxZ-mk"
 };
